@@ -9,7 +9,7 @@
 			
 			li a { color: white; font-size: 15; text-decoration: none;}
 		
-			li a:hover {background-color: #841100;  }  
+			li a:hover {background-color: #841100;  }
 			.fitsize {padding: 8px; }
 			
 			.logo {width: 17%; height: 17%; display: block; margin: 0 auto; top: 0; left:50%; min-width: 20em; min-height: 10em; max-width: 100%; border: 2px solid #841100;}
